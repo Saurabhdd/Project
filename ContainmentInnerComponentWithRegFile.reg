@@ -1,0 +1,5 @@
+Windows Registry Editor Version 5.00
+[HKEY_CLASSES_ROOT\CLSID\{38D9DFA3-33E8-45E1-B4DB-971852E5E677}]
+@="MYINNERCOM"
+[HKEY_CLASSES_ROOT\CLSID\{38D9DFA3-33E8-45E1-B4DB-971852E5E677}\InprocServer32]
+@="C:\\Windows\\System32\\ContainmentInnerComponentWithRegFile.dll"
